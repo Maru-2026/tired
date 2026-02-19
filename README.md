@@ -21,7 +21,7 @@
     <li><a href="PT01/">PT01 Folder</a></li>
     <li><a href="PT02/">PT02 Folder</a></li>
     <li><a href="PT03/">PT03 Folder</a></li>
-    <!-- Dagdag mo pa kung may iba pang files/folders -->
+   
   </ul>
   <p></a></p>
 </body>
